@@ -54,8 +54,8 @@ console.log(obj.nome);
 
 ```js
 const frase = "JavaScript é baseada em ECMA Script";
-
-js
+```
+```js
 console.log(frase.includes("Script")); // true
 ```
 
@@ -64,8 +64,8 @@ console.log(frase.includes("Script")); // true
 
 ```js
 const frase = "JavaScript é baseada em ECMA Script";
-
-js
+```
+```js
 const novaFrase = frase.replace("JavaScript ", "");
 console.log(novaFrase);
 // Saída: "é baseada em ECMA Script"
@@ -76,8 +76,8 @@ console.log(novaFrase);
 ```js
 const frase = "JavaScript é baseada em ECMA Script";
 
-
-js
+```
+```js
 const fraseAlterada = frase.replace("baseada", "tem origem");
 console.log(fraseAlterada); 
 // Saída: "JavaScript é tem origem em ECMA Script"
