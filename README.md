@@ -1,6 +1,6 @@
 # Atividade2Parte1
 
-#### Nessa primeira parte da segunda atividade, iremos responder algumas pergutas e dar alguns exemploes refetes a elas.
+#### Nessa primeira parte da segunda atividade, iremos responder algumas pergutas e mostrar alguns exemploes referentes a elas.
 
 ### *1. O que é JSON e por que ele se tornou tão popular para troca de dados entre aplicações?*
 
